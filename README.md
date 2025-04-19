@@ -1,10 +1,10 @@
 # Tetris
-This is a beginner level project where i coded Simple Tetris
-It has a levelling and scoring system to make it more fun
+This is a beginner level project where i coded Simple Tetris</br>
+It has a levelling and scoring system to make it more fun</br>
 
-The controls are as follows :
-A -> left
-S -> down
-D -> right
-W -> rotate
-SpaceBar -> Pause/Play
+The controls are as follows :</br>
+A -> left</br>
+S -> down</br>
+D -> right</br>
+W -> rotate</br>
+SpaceBar -> Pause/Play</br>
